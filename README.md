@@ -4,7 +4,7 @@ This project implements 5 algorithms to solve the travelling salesman problem.
 2. **Radial Search**: finds the average of all the points and spins a line around it, it will add points in the order that the line encounters them
 3. **Closest neighbour**: it picks a random point, and then hops to the next closes point. Etc.
 4. **Random**: orders them randomly (for comparison purposes)
-5. **Triangle algorithm**: Starts with 3 points (a triangle), and tries to expand sides of the triangle
+5. **Triangle algorithm**: Starts with 3 random points (a triangle), and tries to expand sides of the triangle
 
 # Results
 100 problems needed to be solved; 9 cities in each problem
